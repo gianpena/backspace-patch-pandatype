@@ -1,0 +1,2 @@
+extension.zip:
+	zip -r extension.zip .
